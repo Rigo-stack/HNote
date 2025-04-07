@@ -2,7 +2,7 @@
 
 Overview: 
 Ai-Composition is an application made to enhance note-taking efficiency. 
-It converts handwritten text into digital form and provides AI-driven advice to improve note structure and comprehension.
+It converts images to text  and provides AI-driven advice to improve note structure and comprehension.
 
 ## Features
 
